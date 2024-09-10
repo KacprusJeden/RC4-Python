@@ -63,5 +63,5 @@ class RC4Coding:
 
 
 #Test
-rc4Coding = RC4Coding('Mission Accomplished', 'KACPER')
+rc4Coding = RC4Coding('Mission Accomplished', 'KAREEM')
 print(rc4Coding.rc4Encrypt())
